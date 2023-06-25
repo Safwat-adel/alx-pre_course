@@ -1,1 +1,1 @@
-This is resdme for my repo
+readme for 0x01-git
